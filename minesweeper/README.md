@@ -4,6 +4,8 @@ The classical game of minesweeper played in the console
 
 Part 1
 ------
+Use object oriented concepts where-ever possible 
+
 - create 10x10 minesweeper board
 - preload mines in specific cells
 - ask user to enter the cell position to open as x,y
@@ -12,6 +14,7 @@ Part 1
 - 'o' represents open cell, 'x' represents unopened cell, a mine is represented by '@' 
 - use colorize gem for text and background colors
 - run the sample minesweeper.rb file to see the expected display
+
 
 Installing colorize
 ----------
