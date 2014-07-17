@@ -9,8 +9,9 @@ Part 1
 - ask user to enter the cell position to open as x,y
 - open the cell based on user input 
 - game over when the user clicks on a mine
-- o represents open cell, x represents unopened cell, a mine is represented by @ 
-- use colorize gem for text colors
+- 'o' represents open cell, 'x' represents unopened cell, a mine is represented by '@' 
+- use colorize gem for text and background colors
+- run the sample minesweeper.rb file to see the expected display
 
 Installing colorize
 ----------
