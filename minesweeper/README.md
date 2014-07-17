@@ -6,7 +6,7 @@ Part 1
 ------
 Use object oriented concepts where-ever possible 
 
-- create 10x10 minesweeper board
+- create a minesweeper board with 10x10 cells
 - preload mines in specific cells
 - ask user to enter the cell position to open as x,y
 - open the cell based on user input 
