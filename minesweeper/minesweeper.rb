@@ -5,10 +5,11 @@ def m
 end
 
 c = 1
-until(c=="q") do
-  print "Cell to open(x,y): "
+until(c=="q") do # use 'q' to quit the game
+  print "Cell to open(x,y): " # expect user to enter x,y
   c = gets.chomp
-
+  x,y = c.split(',')
+  puts "#{x}, #{y}"
   puts "-------------------"
   puts "x x o o o x x o o o"
   puts "x x o x o o x o o o"
