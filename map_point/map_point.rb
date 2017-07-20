@@ -1,0 +1,3 @@
+class MapPoint
+  # TODO
+end
