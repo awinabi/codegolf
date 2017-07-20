@@ -1,0 +1,3 @@
+class Battle
+  # TODO
+end
